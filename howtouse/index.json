@@ -3,18 +3,12 @@
         "title": "Instapay Blog",
         "body": "test",
         "image_url": "https://res.cloudinary.com/instapay/image/upload/v1647164963/banner_image/02_Langkah_Mudah_Mencairkan_Dana.svg",
-        "uri": "https://instapay.id/blog/peluang-bisnis-rumahan-yang-menjadi-tren/"
-    },
-    {
-        "title": "Instapay Blog",
-        "body": "test",
-        "image_url": "https://res.cloudinary.com/instapay/image/upload/v1647164963/banner_image/03_Tutorial_Catalog_Instapay.svg",
-        "uri": "https://instapay.id/blog/peluang-bisnis-rumahan-yang-menjadi-tren/"
+        "uri": "https://instapay.id/blog/mencairkan-dana-aplikasi-invoice-instapay/"
     },
     {
         "title": "Instapay Blog",
         "body": "test",
         "image_url": "https://res.cloudinary.com/instapay/image/upload/v1647164963/banner_image/01_Cara_Membuat_Invoice.svg",
-        "uri": "https://instapay.id/blog/peluang-bisnis-rumahan-yang-menjadi-tren/"
+        "uri": "https://instapay.id/blog/cara-membuat-invoice-digital-dengan-instapay/"
     }
 ]
