@@ -2,13 +2,13 @@
     {
         "title": "Instapay Blog",
         "body": "test",
-        "image_url": "https://res.cloudinary.com/instapay/image/upload/v1647164963/banner_image/02_Langkah_Mudah_Mencairkan_Dana.svg",
+        "image_url": "https://res.cloudinary.com/instapay/image/upload/v1647168156/banner_image/tutorial_01_.png",
         "uri": "https://instapay.id/blog/mencairkan-dana-aplikasi-invoice-instapay/"
     },
     {
         "title": "Instapay Blog",
         "body": "test",
-        "image_url": "https://res.cloudinary.com/instapay/image/upload/v1647164963/banner_image/01_Cara_Membuat_Invoice.svg",
+        "image_url": "https://res.cloudinary.com/instapay/image/upload/v1647168156/banner_image/tutorial_02_.png",
         "uri": "https://instapay.id/blog/cara-membuat-invoice-digital-dengan-instapay/"
     }
 ]
