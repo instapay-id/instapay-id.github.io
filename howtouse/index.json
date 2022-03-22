@@ -12,9 +12,15 @@
         "uri": "https://instapay.id/blog/cara-membuat-invoice-digital-dengan-instapay/"
     },
     {
-        "title": "Membuat Invoice",
+        "title": "Membuat Catalog",
         "body": "test",
-        "image_url": "https://res.cloudinary.com/instapay/image/upload/v1647169556/banner_image/tutorial_03_.png",
+        "image_url": "https://res.cloudinary.com/instapay/image/upload/v1647943021/banner_image/Tutorial_04_.png",
         "uri": "https://instapay.id/blog/tutorial-menggunakan-fitur-catalog-instapay/"
+    },
+    {
+        "title": "Menggunakan Catalog",
+        "body": "test",
+        "image_url": "https://res.cloudinary.com/instapay/image/upload/v1647942947/banner_image/tutorial_03_.png",
+        "uri": "https://instapay.id/blog/panduan-menggunakan-catalog-instapay/"
     }
 ]
